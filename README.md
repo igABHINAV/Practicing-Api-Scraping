@@ -76,5 +76,10 @@ Created by : Abhinav (me)
 1>To run it , type ( npm start in your terminal )
 2>Then to add additional cards :
     remove the comment part in CardBody.js in components
-Note : when 2 is done , don't reload the page or don't perform 2 before step 1 
+
+## problem : error comes(blank screen) when 2 is done before 1 
+## solution=> So please do step 1 then move on to step 2 and save the files( don't reload the page)
+
+
+
 
